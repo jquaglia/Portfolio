@@ -28,9 +28,21 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 5:26
 
-Finish time: _____
+Finish time: 5:48
 
-Actual time needed to complete: _____
+Actual time needed to complete: 20 minutes
+```
+
+```
+Number and name of feature: Modify the contents
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 5:50
+
+Finish time: 
+
+Actual time needed to complete:
 ```
 
 Add this information to your README.
